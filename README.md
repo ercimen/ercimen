@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ercimen
-- 👀 I’m interested in Unity, C# and HyperCasual Games
-- 🌱 I’m currently learning Unity & C#
+- 👀 I’m interested in Unity, C# and Game Development
 - 📫 How to reach me ... https://www.linkedin.com/in/erhan-cimen/
 
 <!---
